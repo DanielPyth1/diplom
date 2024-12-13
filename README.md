@@ -1,4 +1,4 @@
-# Educational Modules API
+# Django-приложение “Образовательные модули”
 
 API для управления образовательными модулями, созданный на Django и Django Rest Framework. Проект контейнеризирован с использованием Docker.
 
